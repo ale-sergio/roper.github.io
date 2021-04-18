@@ -52,6 +52,7 @@ File: Framework CSS
 .sectiontitle .heading::after{display:block; position:absolute; bottom:0; left:50%; width:50px; height:2px; margin-left:-25px; content:"";}
 
 .videocontainer iframe{border:none; border-width:0;}
+.videocontainer iframe{width:350px; height: 220px;}
 .videocontainer figcaption{margin-top:10px;}
 
 .services{text-align:center;}
