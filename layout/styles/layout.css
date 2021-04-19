@@ -139,7 +139,7 @@ File: Framework CSS
 
 /* Footer
 --------------------------------------------------------------------------------------------------------------- */
-#footer{padding:80px 0;}
+#footer{padding:80px 0;font-weight: bold;}
 
 #footer .heading{margin-bottom:50px; font-size:1.2rem;}
 
